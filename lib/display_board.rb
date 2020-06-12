@@ -10,5 +10,3 @@ display_board
 puts "a board with a O in the top left"
 board = ["O", " ", " ", " ", " ", " ", " ", " "," "]
 display_board
-
-
